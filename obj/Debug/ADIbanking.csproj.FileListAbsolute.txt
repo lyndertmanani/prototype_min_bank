@@ -1,7 +1,6 @@
 C:\Users\ericlyndert\source\repos\ADIbanking\bin\Debug\ADIbanking.exe.config
 C:\Users\ericlyndert\source\repos\ADIbanking\bin\Debug\ADIbanking.exe
 C:\Users\ericlyndert\source\repos\ADIbanking\bin\Debug\ADIbanking.pdb
-C:\Users\ericlyndert\source\repos\ADIbanking\bin\Debug\MySql.Data.DLL
 C:\Users\ericlyndert\source\repos\ADIbanking\bin\Debug\Renci.SshNet.dll
 C:\Users\ericlyndert\source\repos\ADIbanking\bin\Debug\Renci.SshNet.xml
 C:\Users\ericlyndert\source\repos\ADIbanking\obj\Debug\ADIbanking.csproj.AssemblyReference.cache

@@ -37,7 +37,7 @@ namespace ADIbanking.Savings
             {
                 Username.Text = Savings_login.uName;
             }
-
+       
         }
 
         private void Homebtn_Click(object sender, EventArgs e)
